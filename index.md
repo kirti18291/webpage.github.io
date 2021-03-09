@@ -9,8 +9,8 @@
 		<title>KIRTI GAUTAM</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="main.css" />
+		<noscript><link rel="stylesheet" href="noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 
@@ -19,7 +19,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<a href="home.html" class="logo"><strong>KIRTI</strong> <span>GAUTAM</span></a>
+						<a href="home.md" class="logo"><strong>KIRTI</strong> <span>GAUTAM</span></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
@@ -28,11 +28,11 @@
 				<!-- Menu -->
 					<nav id="menu">
 						<ul class="links">
-							<li><a href="home.html">Home</a></li>
-							<li><a href="about.html">About Me</a></li>
-							<li><a href="stuff.html">Stuff I did</a></li>
-							<li><a href="typo.html">Interactive Typography</a></li>
-							<li><a href="4th.html">Final Thoughts</a></li>
+							<li><a href="home.md">Home</a></li>
+							<li><a href="about.md">About Me</a></li>
+							<li><a href="stuff.md">Stuff I did</a></li>
+							<li><a href="typo.md">Interactive Typography</a></li>
+							<li><a href="4th.md">Final Thoughts</a></li>
 						</ul>
 					</nav>
 
@@ -59,37 +59,37 @@
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
-										<img src="images/my.jpg" alt="" />
+										<img src="my.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="about.html" class="link">About me</a></h3>
+										<h3><a href="about.md" class="link">About me</a></h3>
 										<p>What I am about</p>
 									</header>
 								</article>
 								<article>
 									<span class="image">
-										<img src="images/achromatic.jpg" alt="" />
+										<img src="achromatic.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="stuff.html" class="link">Stuff I did</a></h3>
+										<h3><a href="stuff.md" class="link">Stuff I did</a></h3>
 										<p>Some designing here and there</p>
 									</header>
 								</article>
 								<article>
 									<span class="image">
-										<img src="images/ass15.jpg" alt="" />
+										<img src="ass15.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="typo.html" class="link">Interactive Typography</a></h3>
+										<h3><a href="typo.md" class="link">Interactive Typography</a></h3>
 										<p>A DIS Component</p>
 									</header>
 								</article>
 								<article>
 									<span class="image">
-										<img src="images/hen.jpg" alt="" />
+										<img src="hen.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="4th.html" class="link">Final Thoughts</a></h3>
+										<h3><a href="4th.md" class="link">Final Thoughts</a></h3>
 										<p>What I think about DIS</p>
 									</header>
 								</article>
@@ -99,13 +99,13 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="jquery.min.js"></script>
+			<script src="jquery.scrolly.min.js"></script>
+			<script src="jquery.scrollex.min.js"></script>
+			<script src="browser.min.js"></script>
+			<script src="js/breakpoints.min.js"></script>
+			<script src="js/util.js"></script>
+			<script src="js/main.js"></script>
 
 	</body>
 </html>
